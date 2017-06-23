@@ -17,7 +17,6 @@ const loggerMiddleware = createLogger({
 
 /**
  * 创建store中间件
- *
  */
 const createStoreWithMiddleware = applyMiddleware(
   thunkMiddleware,

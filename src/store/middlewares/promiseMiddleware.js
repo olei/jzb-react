@@ -43,6 +43,7 @@ export default function promiseMiddleware (config = {}) {
        */
       action.payload.promise = promise.then(
         (resolved = {}) => {
+          console.log(resolved)
           const resolveAction = getResolveAction()
           return dispatch(isThunk(resolved) ? resolved.bind(null, resolveAction) : {
             ...resolveAction,

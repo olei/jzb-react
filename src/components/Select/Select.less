@@ -1,0 +1,108 @@
+.ls-head {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.ls-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: .8rem;
+  line-height: .8rem;
+  background: #fafafa;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.ls-menu li:first-child {
+  border-right: 1px solid #d1d1d1;
+}
+
+.ls-menu li {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-align: center;
+}
+
+.ls-menu i {
+  font-size: .3rem;
+  font-style: normal;
+  vertical-align: middle;
+  color: #888;
+}
+
+.ls-menu li span{
+  width: .17rem;
+  height: .09rem;
+  background: url("../../assets/images/icon_bangle.png") no-repeat;
+  background-size: cover;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: .2rem
+}
+
+.ls-tul li {
+  height: .75rem;
+  line-height: .75rem;
+  color: #333;
+  font-size: .26rem;
+  background: #fafafa;
+  border-bottom: 1px solid #dedede;
+  padding-left: .3rem;
+}
+
+.ls-tul .on {
+  color: #099cd6;
+  background: #eee;
+}
+
+.ls-mbox .on {
+  display: block;
+}
+
+.ls-tul {
+  display: none;
+}
+
+.ls-menu li:first-child {
+    border-right: 1px solid #d1d1d1;
+}
+.ls-menu li {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    text-align: center;
+}
+.ls-menu .on i {
+  color: #099cd6
+}
+.ls-menu .on span {
+  width: .17rem;
+  height: .09rem;
+  background: url("../../assets/images/icon_tangle.png") no-repeat;
+  background-size: cover;
+  vertical-align: 
+  middle;display: 
+  inline-block;
+  margin-left: .2rem
+}
+
+.list_mask {
+  visibility: hidden;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  background-color: rgba(0,0,0,.8);
+}
+
+.list_mask.show {
+  visibility: visible;
+  opacity: 1;
+}

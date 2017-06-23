@@ -2,6 +2,7 @@ import React from 'react'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import Action from '../store/actions'
+import { ActivityIndicator } from 'antd-mobile'
 
 @connect(
   state => ({...state}),
@@ -12,10 +13,30 @@ export default class MainLayout extends React.Component {
     children: React.PropTypes.element
   }
 
-  constructor () {
-    super()
+  constructor (props) {
+    super(props)
     this.state = {
-      names: 'jzb fe framework'
+      isLoading: false
+    }
+  }
+
+  componentWillMount () {
+    const D = document.body || document.documentElement
+    this.props.getLazyLoad(D.scrollTop + D.clientHeight)
+    window.addEventListener('scroll', () => {
+      this.props.getLazyLoad(D.scrollTop + D.clientHeight)
+    }, false)
+  }
+
+  componentWillReceiveProps (nextProps) {
+    if (nextProps.loading.show === 1) {
+      this.setState({
+        isLoading: true
+      })
+    } else {
+      this.setState({
+        isLoading: false
+      })
     }
   }
 
@@ -25,6 +46,11 @@ export default class MainLayout extends React.Component {
         <div className='main-wrapper'>
           {this.props.children}
         </div>
+        <ActivityIndicator
+          toast
+          text="正在加载"
+          animating={this.state.isLoading}
+        />
       </div>
     )
   }

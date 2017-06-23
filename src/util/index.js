@@ -1,5 +1,3 @@
-import { IMAGE_HOST_TEST, IMAGE_HOST_PROD } from '../constants'
-
 export const noop = function noop() {}
 
 export function createReducer (initialState, reducerMap) {
@@ -50,16 +48,6 @@ export function dateFormat (date, format) {
   }
 
   return _format;
-}
-
-export function imgTrustUrl (url) {
-  if (process.env.NODE_ENV === 'development' || process.env.NODE_ENV === 'test') {
-    return IMAGE_HOST_TEST + url
-  } else if (process.env.NODE_ENV === 'production') {
-    return IMAGE_HOST_PROD + url
-  } else {
-    return url
-  }
 }
 
 export function isPromise (value) {

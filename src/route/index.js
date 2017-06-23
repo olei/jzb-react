@@ -3,6 +3,8 @@ import { Route } from 'react-router'
 
 import AppView from '../views/App'
 import HomeView from '../views/Home/Home'
+import ListView from '../views/List/List'
+import LiveView from '../views/Live/Live'
 import NotFound from '../views/NotFound/NotFound'
 // import NotFoundView from '../views/NotFound/NotFound'
 
@@ -20,6 +22,8 @@ export default function routes (store) {
     <Route>
       <Route component={AppView} onEnter={validate}>
         <Route path='/' component={HomeView} />
+        <Route path='/list/:cid/:tid' component={ListView} />
+        <Route path='/liView/:id' component={LiveView} />
         <Route path='*' component={NotFound} />
       </Route>
     </Route>

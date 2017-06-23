@@ -5,6 +5,10 @@ import { Provider } from 'react-redux'
 import { Router, useRouterHistory, hashHistory } from 'react-router'
 import { createHistory } from 'history'
 import route from 'ROUTE'
+const FastClick = require('fastclick')
+FastClick.attach(document.body)
+
+import 'antd/style/index.less'
 
 const history = useRouterHistory(createHistory)({ basename: '' })
 const target = document.getElementById('app')
