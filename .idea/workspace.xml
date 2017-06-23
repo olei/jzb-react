@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee701ad-5391-4816-9c62-fd13714e4316" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/config/test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/actionsheet/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/actionsheet/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/agree/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/alert/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/alert/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/badge/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/badge/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/blur/blur.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/blur/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/blur/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/box/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/box/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/button-tab/button-tab-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/button-tab/button-tab.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/button-tab/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/button-tab/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/calendar/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/calendar/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/card/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/card/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/cell/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/cell/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/check-icon/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checker/checker-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checker/checker.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checker/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checker/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checklist/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checklist/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/checklist/object-filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/clocker/clocker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/clocker/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/clocker/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/color-picker/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/color-picker/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/confirm/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/confirm/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/countdown/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/countdown/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/countup/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/countup/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/datetime/datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/datetime/format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/datetime/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/datetime/makeData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/datetime/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/datetime/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/dev-tip/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/divider/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/divider/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/flexbox/flexbox-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/flexbox/flexbox.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/flexbox/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/flexbox/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/form-preview/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/form-preview/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/fullpage/DemoBasic.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/fullpage/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/fullpage/lib.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/grid/grid-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/grid/grid.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/grid/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/grid/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/group-title/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/group/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/group/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/icon/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/icon/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-calendar/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-calendar/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-calendar/props.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-calendar/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-desc/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-desc/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/inline-x-number/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/load-more/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/load-more/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/loading/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/loading/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/map.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/marquee/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/marquee/marquee-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/marquee/marquee.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/marquee/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/masker/converter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/masker/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/masker/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/msg/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/msg/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/number-roller/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/number-roller/lib.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/orientation/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/orientation/orientation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/panel/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/panel/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/chain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/scroller.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/scroller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/picker/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popover/DemoIndex.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popover/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popover/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popup-picker/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popup-picker/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popup/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popup/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/popup/popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/previewer/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/previewer/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/qrcode/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/qrcode/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/radio/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/radio/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/powerange.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/horizontal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/closest-num.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/closest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/delegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/emitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/indexof.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/matches-selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/mouse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/percentage-calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/lib/super.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/range/range/lib/powerange.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/rater/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/rater/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/scroller/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/scroller/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/search/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/search/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/selector/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/selector/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/shake/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/spinner/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/spinner/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/spinner/requestAnimationFrame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/spinner/spinner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/step/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/step/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/step/step-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/step/step.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/sticky/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/sticky/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/sticky/sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swipeout/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swipeout/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swipeout/swipeout-button.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swipeout/swipeout-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swipeout/swipeout.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swiper/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swiper/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swiper/swiper-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swiper/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/swiper/swiper.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tab/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tab/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tab/tab-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tab/tab.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tabbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tabbar/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tabbar/tabbar-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tabbar/tabbar.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/timeline/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/timeline/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/timeline/timeline-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/timeline/timeline.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/tip/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/toast/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/toast/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/video/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/video/zy.media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/video/zy.media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/view-box/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/view-box/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/wechat-emotion/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/wechat-emotion/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/wepay-input/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/wepay-input/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-address/data/compress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-address/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-address/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-button/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-button/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-circle/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-circle/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-dialog/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-dialog/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-header/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-header/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-hr/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-img/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-img/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-input/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-input/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-number/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-number/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-progress/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-progress/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-switch/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-switch/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-textarea/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/components/x-textarea/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/datas/china_address.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/datas/china_address_v1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/datas/vux_component_list.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/demo_list.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/directives/click-outside/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/directives/inview/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/directives/inview/inview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/directives/transfer-dom/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/filters/array2String.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/filters/format-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/filters/friendly-time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/filters/name2value.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/filters/value2name.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/libs/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/libs/eventor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/libs/mixin_uuid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/libs/router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/libs/trim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/locales/all.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/locales/components.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/locales/global_locales.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/locales/zh-CN.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/mixins/multi-items.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/mixins/uuid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/ajax/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/alert/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/confirm/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/device/doc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/device/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/loading/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/locale/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/title/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/toast/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/plugins/wechat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/1px.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/1px.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/blank.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/center.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/doc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/index.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/loading.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/reddot.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/reset.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/tap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/transition.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/variable.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/fn.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/mixin/mobile.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/mixin/setArrow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/mixin/setChecked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/mixin/setOnepx.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/mixin/text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/reset.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/color.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/global.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/weui-cell.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/weui-dialog.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/weui_button.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/weui_grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/weui_msg.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/base/variable/weui_progress.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/icon/weui_font.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/icon/weui_icon_font.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/weui.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-agree/weui-agree.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-animate/weui-animate.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_default.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_disabled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_global.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_loading.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_plain.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_primary.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-btn_warn.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-button/weui-button.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-flex/weui-flex.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-footer/weui-footer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-grid/weui-grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-loading/weui-loading.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-picker/weui-picker.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-slider.less/weui-slider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui-uploader/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui-gallery.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_access.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_cell_global.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_check.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_check/weui_check_common.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_check/weui_checkbox.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_check/weui_radio.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_form.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_form/weui-form-preview.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_form/weui_form_common.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_form/weui_select.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_form/weui_vcode.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_switch.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_cell/weui_uploader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_media_box/weui_media_box.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_page/weui_article.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_page/weui_msg.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_panel/weui_panel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_progress/weui_progress.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_searchbar/weui_searchbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tab/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tab/vux-tabbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tab/weui-tabbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tab/weui_tab.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tab/weui_tab_tabbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tips/weui-badge.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tips/weui-loadmore.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tips/weui_actionsheet.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tips/weui_dialog.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tips/weui_mask.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/styles/weui/widget/weui_tips/weui_toast.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/base64/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/cookie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/date/format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/debounce/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/debounce/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/md5/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/number/comma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/number/pad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/number/random.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/querystring/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/string/trim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/throttle/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/tools/throttle/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/src/vuex/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vux/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/css/lucky-card.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/imgs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/imgs/i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/imgs/qri.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/imgs/stbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/js/lucky-card.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/js/qrcodealg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugins/ajax/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugins/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugins/wechat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugins/wechat/metas.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/views/Home.vue" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build.js" afterPath="$PROJECT_DIR$/build/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/index.js" afterPath="$PROJECT_DIR$/config/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store/index.js" afterPath="$PROJECT_DIR$/src/store/index.js" />
+    </list>
+    <ignored path="jzb-react.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jzb-react" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13363029">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/build.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.8888888">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.4814816">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.prod.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.555555">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/build/build.js" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/build/webpack.prod.conf.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="23" />
+    <option name="width" value="1394" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jzb-react" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee701ad-5391-4816-9c62-fd13714e4316" name="Default" comment="" />
+      <created>1490696520602</created>
+      <option name="number" value="Default" />
+      <updated>1490696520602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="23" width="1394" height="877" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981792" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47297296">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4362416">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.602537">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5044843">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19027483">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.706278">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09513742">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15856236">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53452116">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.555555">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4814816">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8888888">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13363029">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
