@@ -1,4 +1,4 @@
-## 家长帮reactjs脚手架（react+redux+antd-mobile+karma）
+## reactjs脚手架（react+redux+antd-mobile+karma）
 
 - 安装 `npm install`
 - 开发使用: `npm run dev`
